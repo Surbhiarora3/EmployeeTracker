@@ -1,7 +1,7 @@
 # EmployeeTracker
 
 
-## Applocation 
+## Application 
 
  These interfaces are called **content management systems (CMS)**.Built a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
