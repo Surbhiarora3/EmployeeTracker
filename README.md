@@ -9,7 +9,6 @@
 Installation
 Usage
 
-
 ##Installation
  this repository and run npm i with connecting to your mysql database
 
