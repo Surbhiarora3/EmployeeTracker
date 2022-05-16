@@ -20,6 +20,8 @@ inquirer
 Console Table NPM 
 
 
+## Video walkthrough funcationality 
+https://drive.google.com/file/d/1YBfT_op2_a2kctMtpocfg4LAin1Pu-R8/view
 
 
 
