@@ -12,7 +12,7 @@ Usage
 ## Installation
 run npm i and connect to your mysql database
 
-##Usage
+## Usage
 Javascript
 Node.js
 mysql2
